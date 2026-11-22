@@ -1,8 +1,9 @@
 import { useEffect, useMemo, useRef, useState, type ReactNode } from "react"
-import letterheadDark from "./assets/plentari-letterhead-dark.png"
-import letterheadLight from "./assets/plentari-letterhead-light.png"
-import markDark from "./assets/plentari-mark-dark.png"
-import markLight from "./assets/plentari-mark-light.png"
+
+const letterheadDark = "/plentari-letterhead-dark.png"
+const letterheadLight = "/plentari-letterhead-light.png"
+const markDark = "/plentari-mark-dark.png"
+const markLight = "/plentari-mark-light.png"
 
 // ─── Types ───────────────────────────────────────────────────────────────────
 

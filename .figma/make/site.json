@@ -1,5 +1,12 @@
 {
+  "title": "Plentari | AI-Enabled Food Intelligence Platform",
   "description": "Connects food partners and campus communities to forecast demand, rescue surplus meals, reserve products, verify pickups, and track waste avoided and value recovered.",
+  "icons": {
+    "icon": "/plentari-mark-dark.png"
+  },
+  "openGraph": {
+    "image": "/plentari-letterhead-dark.png"
+  },
   "robots": {
     "index": false
   },
