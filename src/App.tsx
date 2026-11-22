@@ -1,9 +1,10 @@
 import { useEffect, useMemo, useRef, useState, type ReactNode } from "react"
-
-const letterheadDark = "/plentari-letterhead-dark.png"
-const letterheadLight = "/plentari-letterhead-light.png"
-const markDark = "/plentari-mark-dark.png"
-const markLight = "/plentari-mark-light.png"
+import {
+  letterheadDark,
+  letterheadLight,
+  markDark,
+  markLight,
+} from "./assets/brandLogos"
 
 // ─── Types ───────────────────────────────────────────────────────────────────
 
